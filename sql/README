@@ -7,4 +7,3 @@ This folder contains practical SQL exercises, including:
 - Aggregate functions and groupings (`GROUP BY`, `HAVING`)
 - Simple procedures and views
 
-Each subfolder contains an individual exercise with its description and SQL scripts.
