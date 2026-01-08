@@ -1,0 +1,10 @@
+# SQL Exercises
+
+This folder contains practical SQL exercises, including:
+
+- Basic queries (`SELECT`, `WHERE`, `ORDER BY`)
+- Joins and subqueries
+- Aggregate functions and groupings (`GROUP BY`, `HAVING`)
+- Simple procedures and views
+
+Each subfolder contains an individual exercise with its description and SQL scripts.
